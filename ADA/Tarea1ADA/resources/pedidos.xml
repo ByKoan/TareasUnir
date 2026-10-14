@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<pedidos>
+    <pedido>
+        <id>1</id>
+        <idcliente>1</idcliente>
+        <producto>Producto1</producto>
+        <cantidad>999</cantidad>
+    </pedido>
+    <pedido>
+        <id>2</id>
+        <idcliente>1</idcliente>
+        <producto>Producto2</producto>
+        <cantidad>45</cantidad>
+    </pedido>
+    <pedido>
+        <id>3</id>
+        <idcliente>2</idcliente>
+        <producto>Producto3</producto>
+        <cantidad>21</cantidad>
+    </pedido>
+    <pedido>
+        <id>4</id>
+        <idcliente>2</idcliente>
+        <producto>Producto4</producto>
+        <cantidad>32</cantidad>
+    </pedido>
+    <pedido>
+        <id>5</id>
+        <idcliente>3</idcliente>
+        <producto>Producto5</producto>
+        <cantidad>1</cantidad>
+    </pedido>
+</pedidos>
